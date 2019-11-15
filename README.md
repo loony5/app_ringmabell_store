@@ -12,7 +12,7 @@
   * **SharedPreferences & Gson** <br>
   * **MediaStore.Images.Media** <br>
   * **Glide** <br>
-  * **다음 지도 API** <br>
+  * **Kakao 지도 API** <br>
   
   개발 진행중
 
