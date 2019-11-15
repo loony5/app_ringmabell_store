@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClient {
 
-    private static final String BASE_URL = "http://ec2-52-78-18-104.ap-northeast-2.compute.amazonaws.com/ringmabell_store/";
+    private static final String BASE_URL = "http://"+ "/ringmabell_store/";
     private static RetrofitClient mInstance;
     private Retrofit retrofit; // 레트로핏 객체를 저장할 레트로핏 타입의 변수를 선언.
 
